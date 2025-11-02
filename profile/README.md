@@ -1,4 +1,4 @@
-# Morio DevOps : Build Once, Deploy Everywhere 🚀
+# Morio Cloud : Configure Once, Deploy Forever 🚀
 
 Welcome to **Morio**—a revolutionary platform transforming how apps are built, delivered, and experienced.
 
